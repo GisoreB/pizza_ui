@@ -1,6 +1,5 @@
 # pizza_ui
-
-Open options Food App UI Design using flutter and sqflite database. Rotated tabbar, clippath bottom nav, counter and more.
+Food App UI Design using flutter and sqflite database. Rotated tabbar, clippath bottom nav, counter and more.
 
 ## Screenshots
 ![Screenshot 2024-08-07 103012](https://github.com/user-attachments/assets/f7fcc6ae-b8d2-439c-a6c5-b3e53b3b4baa)
