@@ -2,15 +2,6 @@
 
 Open options Food App UI Design using flutter and sqflite database. Rotated tabbar, clippath bottom nav, counter and more.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Screenshot 2024-08-07 103012](https://github.com/user-attachments/assets/f7fcc6ae-b8d2-439c-a6c5-b3e53b3b4baa)
+![Screenshot 2024-08-07 102946](https://github.com/user-attachments/assets/1ee6803d-a807-4270-bd92-323d3093d477)
